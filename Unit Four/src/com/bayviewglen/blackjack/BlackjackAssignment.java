@@ -115,7 +115,6 @@ public class BlackjackAssignment {
 					}
 
 					if (choice == 1) {
-						deal = true;
 						int playerCard3 = (int) (Math.random() * 52);
 						if (checkIfAce(playerCard3)) {
 							playerAceCounter++;

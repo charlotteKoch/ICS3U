@@ -1,4 +1,4 @@
-package com.bayviewglen.daythree;
+ package com.bayviewglen.daythree;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
